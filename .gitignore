@@ -1,0 +1,23 @@
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.*
+!.gitignore
+*~
+
+# KDE
+.directory
+.*.sw[a-z]
+*.un~
+Session.vim
