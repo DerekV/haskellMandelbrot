@@ -1,0 +1,10 @@
+Haskell Mandelbrot
+
+* What it does
+  The purpose it to demonstrate generation of a Mandelbrot set in Haskell.
+* Motivation
+  Creating a mandelbrot generator is an excersize I use to orient myself to a language and/or learn more about it. It can aols serve as a sort of practice.
+* Running
+  Not much to run so far...
+  Load the file into ghci, try 
+  mapM_ putStrLn fullset 
